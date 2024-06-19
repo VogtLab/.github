@@ -1,4 +1,4 @@
-## Hi everyone! 
+## Hi everyone! 👋
 
 This is the github profile of [Charlotte Vogt´s lab](https://charlottevogtlab.net.technion.ac.il). 
 
